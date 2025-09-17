@@ -93,7 +93,7 @@ git clone https://github.com/<username>/starbucks-sales-performance
 ## 📊** Dashboard Preview**
 
 <p align="center">
-  <img src="file/Dashboard coffee sales.png" alt="Starbucks Sales Dashboard" width="850">
+  <img src="file/Dashboard.png" width="850">
 </p>
 
 -----
